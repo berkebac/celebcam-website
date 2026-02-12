@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CelebCam - Davet</title>
+
+    <!-- Apple Universal Links -->
+    <meta name="apple-itunes-app" content="app-id=6756125482">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="CelebCam'e Davet Edildin!">
+    <meta property="og:description" content="Kayit ol ve ilk fotografini olusturdugun da ikinize de 5 kredi!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://celebcamapp.com/invite/">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="CelebCam'e Davet Edildin!">
+    <meta name="twitter:description" content="Kayit ol ve ilk fotografini olusturdugun da ikinize de 5 kredi!">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(180deg, #0F0F23 0%, #1A1A2E 100%);
+            color: #FFFFFF;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .logo-section {
+            margin-bottom: 40px;
+        }
+
+        .app-icon {
+            width: 100px;
+            height: 100px;
+            border-radius: 22px;
+            background: linear-gradient(135deg, #7C3AED, #EC4899);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 16px;
+            box-shadow: 0 8px 32px rgba(124, 58, 237, 0.4);
+        }
+
+        .app-icon svg {
+            width: 56px;
+            height: 56px;
+            fill: white;
+        }
+
+        .app-name {
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .invite-card {
+            background: rgba(30, 30, 50, 0.8);
+            border: 1px solid rgba(124, 58, 237, 0.3);
+            border-radius: 20px;
+            padding: 32px 24px;
+            margin-bottom: 32px;
+            backdrop-filter: blur(10px);
+        }
+
+        .invite-emoji {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+
+        .invite-title {
+            font-size: 22px;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, #FFFFFF, #A78BFA);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .invite-subtitle {
+            font-size: 16px;
+            color: #A1A1AA;
+            line-height: 1.5;
+            margin-bottom: 24px;
+        }
+
+        .referral-code-box {
+            background: rgba(124, 58, 237, 0.15);
+            border: 1px dashed rgba(124, 58, 237, 0.5);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 8px;
+        }
+
+        .referral-code-label {
+            font-size: 12px;
+            color: #A1A1AA;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .referral-code {
+            font-size: 32px;
+            font-weight: 800;
+            font-family: 'SF Mono', 'Menlo', 'Monaco', monospace;
+            letter-spacing: 4px;
+            color: #A78BFA;
+        }
+
+        .reward-info {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 16px;
+            padding: 12px;
+            background: rgba(16, 185, 129, 0.1);
+            border-radius: 10px;
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .reward-info svg {
+            width: 20px;
+            height: 20px;
+            fill: #10B981;
+            flex-shrink: 0;
+        }
+
+        .reward-info span {
+            font-size: 14px;
+            color: #10B981;
+            font-weight: 500;
+        }
+
+        .download-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background: linear-gradient(135deg, #7C3AED, #EC4899);
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            padding: 16px 32px;
+            border-radius: 16px;
+            width: 100%;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 24px rgba(124, 58, 237, 0.4);
+        }
+
+        .download-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(124, 58, 237, 0.5);
+        }
+
+        .download-button:active {
+            transform: translateY(0);
+        }
+
+        .download-button svg {
+            width: 24px;
+            height: 24px;
+            fill: white;
+        }
+
+        .footer {
+            margin-top: 32px;
+            font-size: 13px;
+            color: #71717A;
+        }
+
+        .footer a {
+            color: #A1A1AA;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 380px) {
+            .invite-title {
+                font-size: 20px;
+            }
+
+            .referral-code {
+                font-size: 26px;
+                letter-spacing: 3px;
+            }
+
+            .invite-card {
+                padding: 24px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo-section">
+            <div class="app-icon">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 15.2c-1.8 0-3.2-1.4-3.2-3.2s1.4-3.2 3.2-3.2 3.2 1.4 3.2 3.2-1.4 3.2-3.2 3.2zM9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/>
+                </svg>
+            </div>
+            <div class="app-name">CelebCam</div>
+        </div>
+
+        <div class="invite-card">
+            <div class="invite-emoji">🎉</div>
+            <h1 class="invite-title">Arkadaşın seni CelebCam'e davet etti!</h1>
+            <p class="invite-subtitle">Kayıt ol ve ilk fotoğrafını oluşturduğunda ikinize de 5 kredi!</p>
+
+            <div class="referral-code-box">
+                <div class="referral-code-label">Davet Kodu</div>
+                <div class="referral-code" id="referralCode">------</div>
+            </div>
+
+            <div class="reward-info">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20 6h-2.18c.11-.31.18-.65.18-1 0-1.66-1.34-3-3-3-1.05 0-1.96.54-2.5 1.35l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-5-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm11 15H4v-2h16v2zm0-5H4V8h5.08L7 10.83 8.62 12 12 7.4l3.38 4.6L17 10.83 14.92 8H20v6z"/>
+                </svg>
+                <span>Her ikiniz de 5 kredi kazanırsınız!</span>
+            </div>
+        </div>
+
+        <a href="https://apps.apple.com/us/app/celebcam-selfie-celebrity/id6756125482"
+           class="download-button"
+           id="downloadButton">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+            </svg>
+            App Store'dan İndir
+        </a>
+
+        <div class="footer">
+            <p>&copy; 2025 CelebCam &middot; <a href="/privacy-policy.html">Gizlilik</a> &middot; <a href="/terms-of-service.html">Kullanım Şartları</a></p>
+        </div>
+    </div>
+
+    <script>
+        // Extract referral code from URL path
+        (function() {
+            var path = window.location.pathname;
+            var parts = path.split('/');
+            // Find the code after /invite/
+            var code = null;
+            for (var i = 0; i < parts.length; i++) {
+                if (parts[i] === 'invite' && i + 1 < parts.length && parts[i + 1].length > 0) {
+                    code = parts[i + 1].replace(/\/$/, ''); // Remove trailing slash
+                    break;
+                }
+            }
+
+            if (code && code.length > 0) {
+                document.getElementById('referralCode').textContent = code.toUpperCase();
+            }
+        })();
+    </script>
+</body>
+</html>
