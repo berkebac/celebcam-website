@@ -254,4 +254,258 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- ===== FAQ Pages ===== -->
+
+  <!-- FAQ - English (default) -->
+  <url>
+    <loc>https://celebcamapp.com/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FAQ - Turkish -->
+  <url>
+    <loc>https://celebcamapp.com/tr/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Spanish -->
+  <url>
+    <loc>https://celebcamapp.com/es/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Portuguese -->
+  <url>
+    <loc>https://celebcamapp.com/pt/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - French -->
+  <url>
+    <loc>https://celebcamapp.com/fr/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - German -->
+  <url>
+    <loc>https://celebcamapp.com/de/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Arabic -->
+  <url>
+    <loc>https://celebcamapp.com/ar/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Hindi -->
+  <url>
+    <loc>https://celebcamapp.com/hi/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Korean -->
+  <url>
+    <loc>https://celebcamapp.com/ko/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Japanese -->
+  <url>
+    <loc>https://celebcamapp.com/ja/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Russian -->
+  <url>
+    <loc>https://celebcamapp.com/ru/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ - Indonesian -->
+  <url>
+    <loc>https://celebcamapp.com/id/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celebcamapp.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://celebcamapp.com/tr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://celebcamapp.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://celebcamapp.com/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://celebcamapp.com/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://celebcamapp.com/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://celebcamapp.com/ar/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://celebcamapp.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://celebcamapp.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://celebcamapp.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celebcamapp.com/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://celebcamapp.com/id/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celebcamapp.com/faq/"/>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>

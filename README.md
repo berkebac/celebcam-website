@@ -4,8 +4,8 @@ This repository contains the Privacy Policy and Terms of Service for CelebCam iO
 
 ## Pages
 
-- [Privacy Policy](privacy-policy.html)
-- [Terms of Service](terms-of-service.html)
+- [Privacy Policy](privacy-policy)
+- [Terms of Service](terms-of-service)
 
 ## Contact
 
