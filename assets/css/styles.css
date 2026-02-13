@@ -562,6 +562,28 @@ img {
     color: #A78BFA;
 }
 
+.footer-social {
+    display: flex;
+    gap: 16px;
+    margin: 12px 0;
+}
+
+.footer-social a {
+    color: #A1A1AA;
+    transition: color 0.2s ease, transform 0.2s ease;
+    display: flex;
+}
+
+.footer-social a:hover {
+    color: #A78BFA;
+    transform: scale(1.1);
+}
+
+.footer-social svg {
+    width: 24px;
+    height: 24px;
+}
+
 .footer-copy {
     font-size: 13px;
     color: #71717A;
