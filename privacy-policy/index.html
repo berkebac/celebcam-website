@@ -43,7 +43,7 @@
     <div class="container">
         <div class="legal-header">
             <h1>Privacy Policy</h1>
-            <p class="last-updated">Last Updated: December 22, 2025</p>
+            <p class="last-updated">Last Updated: February 20, 2026</p>
         </div>
 
         <div class="legal-content">
@@ -100,8 +100,10 @@
             <h3>Local Storage:</h3>
             <p>Your credit balance, subscription status, and generation history are stored securely in Firebase Firestore, accessible only to you through your authenticated account.</p>
 
-            <h3>Cloud Processing:</h3>
-            <p>Images you upload are temporarily processed by our AI partners (including fal.ai) to generate celebrity selfies. These images are automatically deleted immediately after processing. <strong>No face data, facial recognition information, or biometric data is retained or stored.</strong></p>
+            <h3>Cloud Processing & Third-Party AI:</h3>
+            <p>When you initiate a photo generation, your uploaded photo(s) are sent to our third-party AI provider, <strong>fal.ai</strong>, for image processing. This is the only data shared with fal.ai — <strong>no personal identifiers, names, email addresses, or account information are sent</strong>. Only the image data required for generation is transmitted.</p>
+            <p>Photos sent to fal.ai are processed in real-time and are <strong>automatically deleted immediately after processing</strong> is complete. fal.ai does not retain, store, or use your images for any other purpose, including model training. <strong>No face data, facial recognition information, or biometric data is retained or stored</strong> by CelebCam or fal.ai.</p>
+            <p>By uploading a photo and initiating a generation, you consent to your image being temporarily processed by fal.ai for the sole purpose of creating your requested AI-generated image. You must accept this Privacy Policy during account creation before using any generation features.</p>
 
             <h3>Abuse Prevention:</h3>
             <p>We may temporarily retain uploaded content for a limited period (up to 72 hours) solely for the purpose of detecting, preventing, and investigating abuse, illegal activity, or violations of our Terms of Service. This data is automatically deleted after this period and is never used for any other purpose.</p>
@@ -122,10 +124,10 @@
             <h2>4. Third-Party Services</h2>
             <p>We use the following third-party services:</p>
             <ul>
-                <li><strong>Firebase (Google):</strong> For authentication, data storage (Firestore), file storage (Firebase Storage), and crash reporting (Crashlytics)</li>
-                <li><strong>fal.ai:</strong> AI provider for celebrity selfie generation (images processed temporarily, not stored)</li>
-                <li><strong>RevenueCat:</strong> For in-app purchase and subscription management</li>
-                <li><strong>Apple:</strong> For authentication (Sign In with Apple) and payment processing (App Store)</li>
+                <li><strong>Firebase (Google):</strong> For authentication, data storage (Firestore), file storage (Firebase Storage), and crash reporting (Crashlytics). Data shared: authentication tokens, user account data, generated image URLs, and crash/analytics data.</li>
+                <li><strong>fal.ai (External AI Provider):</strong> Our sole third-party AI integration for image generation. Data shared: <strong>only user-uploaded photos</strong> required for generation — no personal identifiers, names, or account data. Images are deleted immediately after processing and are not used for model training.</li>
+                <li><strong>RevenueCat:</strong> For in-app purchase and subscription management. Data shared: anonymized user ID, purchase transactions, and subscription status.</li>
+                <li><strong>Apple:</strong> For authentication (Sign In with Apple) and payment processing (App Store). Data shared: as required by Apple's authentication and payment frameworks.</li>
             </ul>
             <p>Each third-party service has its own privacy policy. We encourage you to review their policies:</p>
             <ul>
